@@ -1,0 +1,17 @@
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.mdf
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca_log.ldf
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca_Principal.resources
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca_Livros.resources
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca_Detalhes_Livro.resources
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca_Cadastrar_Usuario.resources
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca_Consulta_Usuário.resources
+S:\Users\leona\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca_Login.resources
